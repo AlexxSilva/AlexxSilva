@@ -1,16 +1,17 @@
-## Hi there 👋
+Olá, sou Alex Silva! 👋
+Sou desenvolvedor de software estudando para ser Software Engineer. Amo aprender novas tecnologias e criar soluções de sistemas.
+🚀 Tecnologias e Ferramentas
+•	C#
+•	SQL
+•	Docker
+•	GitHub
+•	Xamarin
+•	Python (aprendendo)
+•	Html, Css e Javascript (aprendendo)
 
-<!--
-**AlexxSilva/AlexxSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 Como me encontrar
 
-Here are some ideas to get you started:
+http://linkedin.com/in/alex-s-a1ab6137
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fato divertido
+•	Adoro assistir Cobra Kai no meu tempo livre! 
