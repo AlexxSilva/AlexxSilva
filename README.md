@@ -4,9 +4,7 @@ Sou desenvolvedor de software estudando para ser Software Engineer. Amo aprender
 
 🚀 Tecnologias e Ferramentas
 
-•	![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-
-•	![SQL Server](https://img.shields.io/badge/SQL%20Server-0078D4?style=flat&logo=microsoft&logoColor=white)
+•	![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)•	![SQL Server](https://img.shields.io/badge/SQL%20Server-0078D4?style=flat&logo=microsoft&logoColor=white)
 
 •	![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
