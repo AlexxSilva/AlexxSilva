@@ -1,8 +1,8 @@
-Olá, sou Alex Silva! 👋
+Olá, sou __Alex Silva__! 👋
 
 Sou desenvolvedor de software estudando para ser Software Engineer. Amo aprender novas tecnologias e criar soluções de sistemas.
 
-🚀 Tecnologias e Ferramentas
+🚀 __Tecnologias e Ferramentas__
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-0078D4?style=flat&logo=microsoft&logoColor=white)
 
@@ -18,11 +18,7 @@ Sou desenvolvedor de software estudando para ser Software Engineer. Amo aprender
 ![CSS - Aprendendo](https://img.shields.io/badge/CSS-Aprendendo-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript - Aprendendo](https://img.shields.io/badge/JavaScript-Aprendendo-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-
-
-
-
-📫 Como me encontrar
+📫 __Como me encontrar__
 
 •    http://linkedin.com/in/alex-s-a1ab6137
 
