@@ -20,7 +20,7 @@ Sou desenvolvedor de software estudando para ser Software Engineer. Amo aprender
 
 📫 __Como me encontrar__
 
-[LinkedIn - Alex S.](http://linkedin.com/in/alex-s-a1ab6137)
+[Visite meu LinkedIn](http://linkedin.com/in/alex-s-a1ab6137)
 
 ⚡ __Fato divertido__
 
