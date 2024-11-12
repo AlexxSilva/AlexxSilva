@@ -1,6 +1,6 @@
 Olá, sou __Alex Silva__! 👋
 
-Sou desenvolvedor de software estudando para ser Software Engineer. Amo aprender novas tecnologias e criar soluções de sistemas.
+Sou um desenvolvedor de software em jornada para me tornar um engenheiro de software. Tenho paixão por aprender novas tecnologias e por criar soluções inovadoras que impactem positivamente a experiência do usuário e a eficiência dos sistemas.
 
 🚀 __Tecnologias e Ferramentas__
 
