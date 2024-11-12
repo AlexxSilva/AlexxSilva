@@ -1,4 +1,4 @@
-Olá, sou Alex Silva! 👋
+Olá, sou <n>Alex Silva</n>! 👋
 
 Sou desenvolvedor de software estudando para ser Software Engineer. Amo aprender novas tecnologias e criar soluções de sistemas.
 
