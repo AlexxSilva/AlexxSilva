@@ -22,6 +22,6 @@ Sou desenvolvedor de software estudando para ser Software Engineer. Amo aprender
 
 •    http://linkedin.com/in/alex-s-a1ab6137
 
-⚡ Fato divertido
+⚡ __Fato divertido__
 
-•	Adoro assistir Cobra Kai no meu tempo livre! 
+•	Nas horas vagas gosto de jogar futebol, assistir filmes e séries. 
