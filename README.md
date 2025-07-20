@@ -1,9 +1,8 @@
 # 👋 Olá, eu sou **Alex Silva**!
 
-Sou um desenvolvedor de software sênior apaixonado por projetar e construir sistemas robustos, performáticos e escaláveis. Com ampla experiência no desenvolvimento backend, aplico boas práticas, arquitetura limpa e princípios sólidos para entregar soluções confiáveis e de alta qualidade.
+Sou um desenvolvedor de software sênior, com experiência sólida em backend e construção de sistemas confiáveis, performáticos e que atendem bem às necessidades do negócio. Estou acostumado a trabalhar principalmente com arquiteturas monolíticas, mas busco constantemente aprender boas práticas e me preparar para desafios maiores.
 
-Atualmente, estou focado na evolução para engenheiro de software sênior, com especialização em sistemas distribuídos e inteligência artificial, buscando integrar tecnologias de ponta para resolver desafios complexos e inovar produtos com impacto real.
-
+Atualmente, meu foco é evoluir para engenheiro de software sênior, com especialização em sistemas distribuídos e inteligência artificial, para poder atuar em projetos mais complexos e inovadores.
 ---
 
 ## 🚀 Tecnologias e Ferramentas
