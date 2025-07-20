@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou **Alex Silva**!
 
-Sou um desenvolvedor de software em transição para engenharia de software, apaixonado por construir **sistemas robustos, performáticos e escaláveis**. Acredito no poder de boas práticas, arquitetura limpa e aprendizado contínuo para transformar código em soluções reais.
+Sou um desenvolvedor de software sênior apaixonado por projetar e construir sistemas robustos, performáticos e escaláveis. Com ampla experiência no desenvolvimento backend, aplico boas práticas, arquitetura limpa e princípios sólidos para entregar soluções confiáveis e de alta qualidade.
+
+Atualmente, estou focado na evolução para engenheiro de software sênior, com especialização em sistemas distribuídos e inteligência artificial, buscando integrar tecnologias de ponta para resolver desafios complexos e inovar produtos com impacto real.
 
 ---
 
