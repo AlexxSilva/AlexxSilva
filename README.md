@@ -1,27 +1,42 @@
-Olá, sou __Alex Silva__! 👋
+# 👋 Olá, eu sou **Alex Silva**!
 
-Sou um desenvolvedor de software em jornada para me tornar um engenheiro de software. Tenho paixão por aprender novas tecnologias e por criar soluções inovadoras que impactem positivamente a experiência do usuário e a eficiência dos sistemas.
+Sou um desenvolvedor de software em transição para engenharia de software, apaixonado por construir **sistemas robustos, performáticos e escaláveis**. Acredito no poder de boas práticas, arquitetura limpa e aprendizado contínuo para transformar código em soluções reais.
 
-🚀 __Tecnologias e Ferramentas__
+---
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-0078D4?style=flat&logo=microsoft&logoColor=white)
+## 🚀 Tecnologias e Ferramentas
 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat&logo=xamarin&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat&logo=dotnet&logoColor=white)
 
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat&logo=xamarin&logoColor=white) ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat&logo=dotnet&logoColor=white)
+---
 
-![Python - Aprendendo](https://img.shields.io/badge/Python-Aprendendo-3776AB?style=flat&logo=python&logoColor=white)
+## 🧠 Foco em Back-end
 
-![HTML - Aprendendo](https://img.shields.io/badge/HTML-Aprendendo-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS - Aprendendo](https://img.shields.io/badge/CSS-Aprendendo-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript - Aprendendo](https://img.shields.io/badge/JavaScript-Aprendendo-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- Desenvolvimento de **APIs RESTful** com ASP.NET Core  
+- Aplicação de princípios **SOLID**, **DDD** e **Clean Architecture**
+- Integração com bancos de dados relacionais (SQL Server)  
+- Experiência com **ADO.NET**, **EF Core**, **Migrations**, e **LINQ**
+- Contêineres Docker para isolar aplicações
+- Aplicações móveis com **Xamarin Forms** e evolução para **.NET MAUI**
 
-📫 __Como me encontrar__
+---
 
-[Visite meu LinkedIn](http://linkedin.com/in/alex-s-a1ab6137)
+## 📫 Como me encontrar
 
-⚡ __Fato divertido__
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Silva-0077B5?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/in/alex-s-a1ab6137)
 
-•	Nas horas vagas gosto de jogar futebol, assistir filmes e séries. 
+---
+
+## ⚡ Curiosidade sobre mim
+
+Tenho uma rotina intensa de estudos, e mesmo com pouco tempo disponível, me dedico diariamente para evoluir como desenvolvedor. Meu foco é me tornar um engenheiro de software SR com domínio em sistemas distribuídos e arquitetura back-end moderna.
+
+---
