@@ -23,7 +23,7 @@ Sou um desenvolvedor de software em transição para engenharia de software, apa
 - Desenvolvimento de **APIs RESTful** com ASP.NET Core  
 - Aplicação de princípios **SOLID**, **DDD** e **Clean Architecture**
 - Integração com bancos de dados relacionais (SQL Server)  
-- Experiência com **ADO.NET**, **EF Core**, **Migrations**, e **LINQ**
+- Experiência com **ADO.NET**,**Dapper**, **EF Core**, **Migrations**, e **LINQ**
 - Contêineres Docker para isolar aplicações
 - Aplicações móveis com **Xamarin Forms** e evolução para **.NET MAUI**
 
